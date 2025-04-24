@@ -1,2 +1,2 @@
 
-# Exploring  Backend Engineering first priciples
+# Exploring  Backend Engineering First Principles
